@@ -22,7 +22,8 @@ typedef struct
 } ControllerInfo;
 
 #define MICROSOFT_VID 0x45E
-#define XBOX_CONTROLLER_PID 0x2FD
+//change pid to XONE S thanks to steam table
+#define XBOX_CONTROLLER_PID 0x2E0
 #define CONTROLLER_ANALOG_THRESHOLD 4
 #define DEADZONE_ANALOG(a) ((a) > 127 - CONTROLLER_ANALOG_THRESHOLD && (a) < 127 + CONTROLLER_ANALOG_THRESHOLD ? 127 : (a))
 #define abs(x) (((x) < 0) ? -(x) : (x))

@@ -37,6 +37,6 @@ There can several reasons but here are the most common:
   4. You installed the plugin incorrectly (install and open the companion to see if X1Vita is detected)
 
 ## Note about controllers not working
-For now only official Xbox One controllers are suppourted all others will be ignored. If you want your controller to be added install the companion open it and go to Debug Bluetooth then connect the controller and note down the PID or VID. Then send them to me somehow along with controller name. (My discord is in the companion)
+For now only official Xbox One controllers are suppourted all others will be ignored. I am no longer adding 3rd party suppourt as they use different payloads (sometimes).
 
 

@@ -37,7 +37,7 @@ There can several reasons but here are the most common:
   4. You installed the plugin incorrectly (install and open the companion to see if X1Vita is detected)
 
 **1. My controller doesn't show up in bluetooth devices!**
-Microsoft updated the controller firmware that for some reason made it invisible to the vita, to fix this, downgrade your controllers firmware with (this guide) [https://support.xbox.com/en-GB/help/hardware-network/accessories/controller-firmware-reversion].
+Microsoft updated the controller firmware that for some reason made it invisible to the vita, to fix this, downgrade your controllers firmware with [this guide] (https://support.xbox.com/en-GB/help/hardware-network/accessories/controller-firmware-reversion).
 
 ## Note about controllers not working
 For now only official Xbox One controllers are suppourted all others will be ignored. I am no longer adding 3rd party suppourt as they use different payloads (sometimes).

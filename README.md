@@ -38,7 +38,7 @@ There can several reasons but here are the most common:
 
 **2. My controller doesn't show up in bluetooth devices!**  
 Microsoft updated the controller firmware that for some reason made it invisible to the vita, to fix this, downgrade your controllers firmware with [this guide](https://support.xbox.com/en-GB/help/hardware-network/accessories/controller-firmware-reversion).
-Note: This fix will *only* work on xbox one controllers. Xbox series controlelrs use an unsupported bluetooth version and as such will never be able to be used.
+Note: This fix will *only* work on xbox one controllers. Xbox series controllers use an unsupported bluetooth version and as such will never be able to be used.
 
 ## Note about controllers not working
 For now only official Xbox One controllers are suppourted all others will be ignored. I am no longer adding 3rd party suppourt as they use different payloads (sometimes).

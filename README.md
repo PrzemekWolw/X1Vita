@@ -36,7 +36,11 @@ There can several reasons but here are the most common:
   3. Your using the new Xbox one controllers, ie the ones with the screenshot button (including the series controllers) are **not** suppourted, this is simply because the vita's      bluetooth version does not suppourt them so they simply cannot connect no matter what.
   4. You installed the plugin incorrectly (install and open the companion to see if X1Vita is detected)
 
+**2. My controller doesn't show up in bluetooth devices!**  
+Microsoft updated the controller firmware that for some reason made it invisible to the vita, to fix this, downgrade your controllers firmware with [this guide](https://support.xbox.com/en-GB/help/hardware-network/accessories/controller-firmware-reversion).
+Note: This fix will *only* work on xbox one controllers. Xbox series controllers use an unsupported bluetooth version and as such will never be able to be used.
+
 ## Note about controllers not working
-For now only official Xbox One controllers are suppourted all others will be ignored. If you want your controller to be added install the companion open it and go to Debug Bluetooth then connect the controller and note down the PID or VID. Then send them to me somehow along with controller name. (My discord is in the companion)
+For now only official Xbox One controllers are suppourted all others will be ignored. I am no longer adding 3rd party suppourt as they use different payloads (sometimes).
 
 
